@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RiaBirthday</string>
+    <string name="title_activity_second">second</string>
+    <string name="title_activity_third">third</string>
+</resources>
