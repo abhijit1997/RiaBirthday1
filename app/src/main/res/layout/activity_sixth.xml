@@ -15,7 +15,7 @@
         android:textAlignment="center"
         android:textAllCaps="true"
         android:layout_marginTop="10dp"
-        android:text= "I fought with a guy because you told me to, who was it?"
+        android:text= "First meeting at bakers,Which movie was i supposed to go for?"
         android:textSize="15dp"
 
         android:id="@+id/textView"
@@ -30,17 +30,16 @@
         <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Aayush"
-            android:id="@+id/kkr"
+            android:text="Finding Dory"
+            android:id="@+id/somu"
             android:layout_marginTop="60dp"
             />
         <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Mankare"
+            android:text="Conjuring 2"
             android:layout_marginTop="60dp"
-            android:id="@+id/pune"
-
+            android:id="@+id/abhi"
             />
 
     </LinearLayout>
@@ -53,16 +52,16 @@
         <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Chinar"
+            android:text="Te3n"
             android:id="@+id/Te3n"
             android:layout_marginTop="60dp"
             />
         <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Allen"
+            android:text="None Of These"
             android:layout_marginTop="60dp"
-            android:id="@+id/notpp"
+            android:id="@+id/nott"
 
             />
 
@@ -78,5 +77,4 @@
             android:layout_weight="0.26" />
 
     </LinearLayout>
-
 </LinearLayout>
